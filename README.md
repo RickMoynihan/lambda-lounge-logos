@@ -1,4 +1,4 @@
-Lambda Louge Logos
+Lambda Lounge Logos
 ===================
 
 Logos for Lambda Lounge Groups to use.
